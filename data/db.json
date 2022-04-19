@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "datetime": "April 18, 2022 7:16:17 PM",
+      "body": "This is the first post"
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "April 18, 2022 7:15:36 PM",
+      "body": "This is the second post of this blog."
+    },
+    {
+      "id": 3,
+      "title": "Four",
+      "datetime": "April 18, 2022 7:00:14 PM",
+      "body": "Fourth"
+    }
+  ]
+}
